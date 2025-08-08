@@ -1,4 +1,7 @@
-# 설치
+# [yt-dlp](https://github.com/yt-dlp/yt-dlp) 설치
+- pip install yt-dlp 
+# ffmpeg 설치
+
 1. [사이트](https://www.gyan.dev/ffmpeg/builds/) 에서 
 ffmpeg-release-essentials.zip 다운로드 
 2. C:\ffmpeg\ 폴더에 압축 해제
